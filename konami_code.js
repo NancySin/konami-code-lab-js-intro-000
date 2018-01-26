@@ -19,4 +19,3 @@ function init() {
 
 
   // Keep track of index outside of the event handler.
-  
